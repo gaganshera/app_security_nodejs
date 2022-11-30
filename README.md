@@ -19,6 +19,7 @@ $ npm install
 ```bash
 # Rename `development.env` file to `.env`
 $ mv development.env .env
+# Change secret in env file as secret should not be kept default
 ```
 
 ## Running the app
